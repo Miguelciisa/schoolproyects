@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
+<h1>Los videojuegos en campos de la educación</h1>
+<p>Estudio sobre el efecto de los videojuegos en aulas de clases</p>
+<center><img src= https://cdn-icons-png.flaticon.com/512/330/330942.png style="width:200px;height:200px;"alt="GameController"></center>
+<section>
+<article>
+    <p1>El estudio analizó las actitudes de los docentes de primaria y secundaria en la República Dominicana hacia el uso de videojuegos como herramientas educativas. Se utilizó una metodología cuantitativa exploratoria-descriptiva, incluyendo análisis factorial exploratorio y confirmatorio. Los resultados indicaron que los profesores más jóvenes y aquellos que han usado videojuegos previamente muestran una mayor disposición para integrarlos en el aula.</p1>
+    <p2>Sin embargo, la falta de experiencia y capacitación en el uso de videojuegos crea barreras que limitan su incorporación en la enseñanza, destacando la necesidad urgente de formación docente en este ámbito. Los videojuegos en educación son vistos como facilitadores del aprendizaje, fomentando la resolución de problemas, habilidades motoras y cognitivas, y la creatividad. También sirven como puentes hacia la cultura digital al permitir la interacción entre jugadores y la formación de comunidades en línea. Razones para incentivar el uso de videojuegos en las aulas de clases:</p2>
+<ul>
+  <li>Ayuda con la colaboracion de los alumnos</li>
+  <li>Incentiva el alcanzar objetivos de manera didactica</li>
+  <li>Ayuda a eliminar el stigma del mal que genera el uso de videojuegos</li>
+</ul>
+<form>
+<input type="text"> Nombre(s) y Apellido(s)
+<input type="email"> Email
+<input tyoe= "coments"> Comentarios
+<button type="submit"> Enviar Comentario
+</button>
+</form>
+</article>
+</section>
+</body>
+</html>
